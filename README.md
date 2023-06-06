@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
