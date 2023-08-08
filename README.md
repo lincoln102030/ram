@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
