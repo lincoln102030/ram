@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
